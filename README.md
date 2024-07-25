@@ -1,2 +1,3 @@
-# first-vega
-Practicing vega visualizations
+# Vega Visualizations
+
+Practicing vega

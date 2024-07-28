@@ -1,0 +1,15 @@
+{
+    "folders": [
+      {
+        "path": "visualizations/bar_chart"
+      },
+      {
+        "path": "visualizations/line_chart"
+      },
+      {
+        "path": "visualizations/scatter_plot"
+      }
+    ],
+    "settings": {}
+  }
+  
